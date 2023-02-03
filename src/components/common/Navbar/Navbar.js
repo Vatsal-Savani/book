@@ -7,15 +7,12 @@ const Navbar = () => {
   const navigate = useNavigate();
 
   const navigateToBooks = ()=>{
-    // localStorage.setItem("name","New Arrivals")
       navigate("/booksbycatagory",{state : {namee : "New Arrivals"}});
   }
   const navigateToBooks2 = ()=>{
-    // localStorage.setItem("name","Box Sets")
       navigate("/booksbycatagory",{state : {namee : "Box Sets"}});
   }
   const navigateToBooks3 = ()=>{
-    // localStorage.setItem("name","Best Sellers")
       navigate("/booksbycatagory",{state : {namee : "Best Sellers"}});
   }
 

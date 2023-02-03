@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import "./card.css"
 import { useNavigate } from 'react-router-dom';
-import BookSpecific from '../../pages/BookSpecific';
 
 const Card = ({book}) => {
 // console.log(book);
