@@ -1,0 +1,38 @@
+.accordianb{
+    display: flex;
+    
+}
+
+h1,hr{
+    display: flex;
+    margin-left: 9vw;
+    margin-right: 12vw;
+}
+
+.card{
+    width: 10vw;
+    margin: 0 10px 0 10px;
+    border: 1px solid white;
+    cursor: pointer;
+}
+
+.card:hover{
+    transform: scale(0.9) ;
+    background-color: rgb(239, 239, 239);
+}
+
+.card img{
+    margin-bottom: 3vh;
+    width: 9vw;
+    height: 28vh;
+    margin-left: 6px;
+}
+
+.title{
+    margin-bottom: 6vh;
+}
+
+.maindv{
+    display: flex;
+    margin: 0 16vw 0 10vw;
+}

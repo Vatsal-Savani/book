@@ -1,0 +1,61 @@
+#logo{
+    height: 9vh;
+    margin: 2.5vh 0 0 1.3vw;
+    cursor: pointer;
+}
+
+.navtop{
+    display: flex;
+    height: 14vh;
+    background-color: rgb(247, 247, 247);
+}
+
+.searchbar{
+    margin: 4.5vh 0 0 11vw;
+}
+
+.loginbar{
+    margin: 5vh 0 0 14vw;
+}
+
+.searchinput{
+    height: 36.5px;
+    width: 40vw;
+    border: 1px solid red;
+    border-radius: 4px;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    font-size: 15px;
+}
+
+.logininput{
+    height: 28.5px;
+    width: 14.5vw;
+    border: 1px solid red;
+    border-radius: 4px;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    background-color: white;
+}
+
+.searchbtn{
+    height: 38px;
+    width: 2.7vw;
+    border: 1px solid red;
+    border-radius: 4px;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    background-color: red;
+    color: white;
+}
+
+.loginbtn{
+    height: 28.5px;
+    width: 3vw;
+    border: 1px solid red;
+    border-radius: 4px;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    background-color: red;
+    color: white;
+}

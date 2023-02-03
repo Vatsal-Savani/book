@@ -1,0 +1,41 @@
+footer{
+    background-color: rgb(243, 243, 243);
+}
+
+#footer1{
+    display: flex;
+    justify-content: center;
+}
+
+#footer1 ul li{
+    list-style: none;
+    display: flex;
+    cursor: pointer;
+}
+
+#footer1 ul li:hover{
+    font-weight: 500;
+    text-decoration: underline;
+}
+
+.footer1indiv{
+    margin: 8vh 7vw 0 7vw;
+}
+
+#footer2{
+    display: flex;
+    justify-content: center;
+}
+
+#footer2 div{
+    margin: 0 1vw 1vh 1vw;
+}
+
+#footer2 div i{
+    cursor: pointer;
+}
+
+#footer3{
+    font-size: 15px;
+    padding-bottom: 2vh;
+}

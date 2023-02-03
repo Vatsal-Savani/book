@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#scheme1{
+    height: 13.3vh;
+    cursor: pointer;
+}
+
+#secondslider{
+    display: flex;
+}
+
+#secslide{
+    
+    margin: 7vh 8vw 0 10vw;
+}
+
+#secondslider div img,.iconame{
+    padding: 0 3vw;
+    cursor: pointer;
+}
+
+.accordianb{
+    display: flex;
+    margin: 0 13vw 0 14vw;
+}
+
+h1,hr{
+    display: flex;
+    margin-left: 12vw;
+    margin-right: 12vw;
+}
+
+#ad2{
+    overflow: hidden;
+}
+
+

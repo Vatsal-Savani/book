@@ -1,0 +1,65 @@
+#mdiv{
+    display: flex;
+    margin: 5vh 0 0 11vw;
+}
+
+#dp{
+    height: 45vh;
+    width: 14vw;
+    margin: 3.3vh;
+}
+
+#dpfather{
+    border: 1px solid rgb(214, 214, 214);
+}
+
+#datafather{
+    margin: 0 0 0 2vw;
+}
+
+hr{
+    margin-left: 0;
+}
+
+.d-flexx{
+    display: flex;
+}
+
+.newprice{
+    margin-top: 6vh;
+    margin-bottom: 3vh;
+}
+
+.originalprice{
+    margin-bottom: 4vh;
+}
+
+.btnnn{
+    margin-top: 6vh;
+}
+
+.btn1,.btn2{
+    margin: 0 3px;
+    border: 1px solid #e15050;
+    border-radius: 4px ;
+    background-color: #e84848;
+    color: white;
+    padding: 1vh 3vw;
+    cursor: pointer;
+}
+
+.details{
+    margin-top: 8vh;
+}
+
+.about{
+    margin: 4vh 10vw 0 10vw;
+}
+
+.redd{
+    color: #e84848;
+}
+
+.redd:hover{
+    color: black;
+}
